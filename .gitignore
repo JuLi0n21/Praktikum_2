@@ -1,11 +1,11 @@
-1/build/
-2/build/
-3/build/
+.vscode/
 1/.vscode/
+1/build/
 2/.vscode/
+2/build/
 3/.vscode/
-4/build/
+3/build/
 4/.vscode/
+4/build/
 5/.vscode
 5/build
-.vscode/

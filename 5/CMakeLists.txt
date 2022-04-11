@@ -1,4 +1,4 @@
-project(Practikum_4)
+project(Practikum_5)
 
 add_library(
     teamstatistics

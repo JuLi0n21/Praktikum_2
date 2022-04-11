@@ -8,10 +8,10 @@ class TeamStatistics
 
     private:
            std::string teamshortaning = "DEFAULT" ;
-           int toreerhalten = 21;
-           int toregeschossen = 102;
-           int punkte = 100;
-           int anzahlspiele = 20;
+           int toreerhalten = 0;
+           int toregeschossen = 0;
+           int punkte = 0;
+           int anzahlspiele = 0;
 
     public:
         TeamStatistics(std::string a)
@@ -23,6 +23,8 @@ class TeamStatistics
         void showshortening();
 
         void tordifference();
+
+        void Spiel(int toregeschossen, int toreerhalten);
 }; 
 
 #endif //TEAMSTATITSTICS_HEADER

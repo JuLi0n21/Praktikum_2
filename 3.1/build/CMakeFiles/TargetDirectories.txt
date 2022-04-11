@@ -1,4 +1,0 @@
-/mnt/j/Meine Ablage/Studium/Semester 2/GIP2/practikum 2/gip2_praktikum_2/3/build/CMakeFiles/rebuild_cache.dir
-/mnt/j/Meine Ablage/Studium/Semester 2/GIP2/practikum 2/gip2_praktikum_2/3/build/CMakeFiles/edit_cache.dir
-/mnt/j/Meine Ablage/Studium/Semester 2/GIP2/practikum 2/gip2_praktikum_2/3/build/CMakeFiles/main.dir
-/mnt/j/Meine Ablage/Studium/Semester 2/GIP2/practikum 2/gip2_praktikum_2/3/build/CMakeFiles/greeting.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/j/Meine Ablage/Studium/Semester 2/GIP2/practikum 2/gip2_praktikum_2/5/main.cpp
+teamStatistics.hpp
+/mnt/j/Meine Ablage/Studium/Semester 2/GIP2/practikum 2/gip2_praktikum_2/5/teamStatistics.hpp
+iostream
+-
+string
+-
+
+/mnt/j/Meine Ablage/Studium/Semester 2/GIP2/practikum 2/gip2_praktikum_2/5/teamStatistics.hpp
+string
+-
+

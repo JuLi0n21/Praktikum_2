@@ -1,2 +1,0 @@
-/usr/bin/ar qc libteamstatistics.a  CMakeFiles/teamstatistics.dir/TeamStatistics.cpp.o
-/usr/bin/ranlib libteamstatistics.a

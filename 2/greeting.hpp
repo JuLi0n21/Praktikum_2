@@ -1,5 +1,6 @@
 #ifndef GREETING_CLASS_HEADER
 #define GREETING_CLASS_HEADER
+#include <string>
 
 
 class Greeting 
@@ -8,7 +9,7 @@ class Greeting
 private:
 
 public:
-    void print();
+    void print(std::string a);
     
 };   //GREETING_CLASS_HEADER
 

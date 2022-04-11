@@ -1,12 +1,13 @@
 #include "greeting.hpp"
 #include <iostream>
+#include <string>
 
 int main() {
 
-    char a;
-    Greeting* greeting = new Greeting;
+    std::string a;
+    Greeting greeting;
         //std::cout << "Hello World!" << std::endl;
         std::cin >> a; 
-    greeting->print(); 
+    greeting.print(a); 
     return EXIT_SUCCESS;
 }
